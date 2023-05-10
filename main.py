@@ -7,3 +7,4 @@ def hello(name):
     print('hello' + name)
     # print('테스트')
     print('tt')
+    print('되나')
